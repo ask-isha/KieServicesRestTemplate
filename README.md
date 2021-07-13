@@ -1,1 +1,1 @@
-# KieServicesRestTemplate
+# KieServicesRestTemplatePAM
